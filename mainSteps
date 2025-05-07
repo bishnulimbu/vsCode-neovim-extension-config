@@ -50,3 +50,4 @@ keybindings.json for navigationa
   ]
 settings.json for initfile path and clipboard    
 -->can be done by adding after init config this---> set clipboard+=unnamedplus
+also set the keyboard: Dispatch to keyCode
